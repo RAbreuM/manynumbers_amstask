@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 This experiment was created using PsychoPy3 Experiment Builder (v2022.2.5),
-    on Tue Feb  6 23:19:22 2024
+    on Wed Feb  7 01:04:18 2024
 If you publish work using this script the most relevant publication is:
 
     Peirce J, Gray JR, Simpson S, MacAskill M, Höchenberger R, Sogo H, Kastman E, Lindeløv JK. (2019) 
@@ -72,7 +72,7 @@ filename = _thisDir + os.sep + u'data/%s_%s_%s' % (expInfo['Enter_Participant'],
 # An ExperimentHandler isn't essential but helps with data saving
 thisExp = data.ExperimentHandler(name=expName, version='',
     extraInfo=expInfo, runtimeInfo=None,
-    originPath='/Users/robertoabreu/Documents/indiana/manynumbers/mn_amstask_twoseconds_020624/mn_amstask_twoseconds_020624_lastrun.py',
+    originPath='/Volumes/gunderson_lab/projects/manynumbers/github/mn_amstask_twoseconds_020624/mn_amstask_twoseconds_020624_lastrun.py',
     savePickle=True, saveWideText=True,
     dataFileName=filename)
 # save a log file for detail verbose info
@@ -108,7 +108,7 @@ defaultKeyboard = keyboard.Keyboard(backend='ptb')
 # --- Initialize components for Routine "Instructions" ---
 key_resp_5 = keyboard.Keyboard()
 taskInst = visual.TextStim(win=win, name='taskInst',
-    text='You are going to see some blue dots and some yellow dots.\n \nYour job is to tell me which color has more dots.\n\nYou can point to which side had more dots, or just say “blue” or “yellow”.\n\nExperimenter: press "a" for blue and "l" for yellow.\n\n\n\n\nReady?',
+    text='You are going to see some blue dots and some yellow dots.\n \nYour job is to tell me which color has more dots.\n\nYou can point to which side had more dots, or just say “blue” or “yellow”.\n\nExperimenter: press "a" for blue and "l" for yellow.\n\n\nReady?',
     font='Arial',
     pos=(0, 0), height=0.0375, wrapWidth=None, ori=0.0, 
     color='white', colorSpace='rgb', opacity=None, 
