@@ -7,3 +7,5 @@ To download the task,
 1. Click on the green button "Code"
 2. Click on dowload zip.
 3. If you are using a PC, place the unzipped folder in a new location.
+
+Once you have downloaded the folder, please read the mn_amstask_protocol.docx document for more instructions on how to run the task.
